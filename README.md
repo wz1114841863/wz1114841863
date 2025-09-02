@@ -1,4 +1,4 @@
-## 鼠鼠我啊 shortcode: :hamster:
+## :hamster:
 
 <!--
 **wz1114841863/wz1114841863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
